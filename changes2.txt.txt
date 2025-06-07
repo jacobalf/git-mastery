@@ -1,4 +1,5 @@
 this is the second file, but also first change.
 
 new branch changes second.
-dev-ob has changed this file
+
+dev-ob has changed this file, but to solve merge conflicts, dev-jacssss
